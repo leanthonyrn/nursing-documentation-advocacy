@@ -91,7 +91,7 @@ You do not need to represent an organization. Individual comments from practicin
 
 ## Background
 
-This template accompanies the article'The Work Is Being Done. The System Just Can't See It.' (Part 1 of a 4-part LinkedIn series, link coming today) which explains why structured nursing documentation is the foundation for making nursing's clinical contribution visible in payment policy, and how to build it without adding documentation burden.
+This template accompanies [Part 1: Design Outcomes, Not Training Failures](https://www.linkedin.com/pulse/part-1-design-outcomes-training-failures-leanthony-i6smc), the opening article of a 4-part LinkedIn series on structured nursing documentation, passive data capture, and proving the clinical value of nursing. New parts publish Thursdays.  In combination they explain why structured nursing documentation is the foundation for making nursing's clinical contribution visible in payment policy, and how to build it without adding documentation burden.
 
 ---
 
