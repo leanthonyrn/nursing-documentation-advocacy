@@ -11,11 +11,12 @@ A ready-to-adapt public comment template for nurses at every level: bedside, inf
 
 ## How to Submit
 
-1. Go to [regulations.gov](https://www.regulations.gov)
-2. Search for file code **CMS-1848-P**
-3. Select **Comment** on the CY 2027 Medicare Physician Fee Schedule proposed rule
-4. Paste your adapted comment into the comment box or attach it as a document
-5. Submit before **11:59 PM ET on September 14, 2026**
+1. Go directly to the comment form: [regulations.gov/commenton/CMS-2026-2377-0002](https://www.regulations.gov/commenton/CMS-2026-2377-0002)
+2. Paste your adapted comment into the comment box or attach it as a document
+3. Reference file code **CMS-1848-P** in your comment
+4. Submit before **11:59 PM ET on September 14, 2026**
+
+**Use the direct link above.** If you instead search regulations.gov for this rule, you may land on the pre-publication "display copy" (document CMS-2026-2377-0001), which shows as closed for comments. That document was a temporary placeholder that closed when the official rule published in the Federal Register on July 16, 2026. The published rule (document CMS-2026-2377-0002) is the live comment target, open through September 14, 2026. The full docket, including all submitted public comments, is at [regulations.gov/docket/CMS-2026-2377](https://www.regulations.gov/docket/CMS-2026-2377).
 
 You do not need to represent an organization. Individual comments from practicing clinicians are read and counted. Identify yourself by role and credentials. A comment from a bedside nurse, a CNO, or a nursing informatics director carries the weight of direct clinical experience that policy staff cannot get anywhere else.
 
@@ -98,4 +99,4 @@ This template accompanies the article [The Work Is Being Done. The System Just C
 
 This template may be copied, adapted, and redistributed without permission or attribution.
 
-**File code CMS-1848-P at regulations.gov. Deadline September 14, 2026.**
+**Comment directly at [regulations.gov/commenton/CMS-2026-2377-0002](https://www.regulations.gov/commenton/CMS-2026-2377-0002). Reference file code CMS-1848-P. Deadline September 14, 2026.**
